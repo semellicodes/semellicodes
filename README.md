@@ -64,7 +64,7 @@
   <a href="https://www.linkedin.com/in/paulasemelli/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:paulasemelli@gmail.com">
+  <a href="mailto:paulaufra2023@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
