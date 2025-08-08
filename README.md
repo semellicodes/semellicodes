@@ -21,12 +21,6 @@
 
 ### 🧠 Tecnologias que uso e estudo
 
-- 🟠 **Kotlin** – Desenvolvimento Android nativo, estudando boas práticas e arquitetura  
-- 🔵 **Flutter** – Construção de apps multiplataforma, projetos pessoais em andamento  
-- 🟢 **Arquitetura Android** – MVVM, Clean Architecture, patterns para apps robustos  
-- 🌐 **Web**: HTML, CSS, JavaScript, Python, SQL – Desenvolvimento fullstack  
-- ⚙️ **Práticas modernas**: controle de versão, testes e deploy  
-
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS" />
