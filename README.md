@@ -9,7 +9,7 @@
 
 ### 👩‍💻 Sobre mim
 
-🎓 Estudante de **Sistemas de Informação** na **UFRA** (5º semestre)  
+🎓 Estudante de **Sistemas de Informação** na **UFRA** (6º semestre)  
 💻 Focada em desenvolvimento **Web** e **Mobile**  
 🚀 Buscando crescer como desenvolvedora e transformar ideias em soluções reais  
 
