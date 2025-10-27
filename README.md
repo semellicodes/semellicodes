@@ -7,7 +7,7 @@
 
 ---
 
-### 👩‍💻 Sobre mim
+### Sobre mim
 
 🎓 Estudante de **Sistemas de Informação** na **UFRA** (6º semestre)  
 💻 Focada em desenvolvimento **Web** e **Mobile**  
@@ -67,7 +67,7 @@
 
 ---
 
-### 💡 Obrigada por visitar meu perfil!
+### Obrigada por visitar meu perfil!
 
 Fique à vontade para explorar meus repositórios.  
 Vamos codar, aprender e crescer juntos! 🚀
