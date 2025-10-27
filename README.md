@@ -2,7 +2,7 @@
   <img src="https://github.com/semellicodes.png" width="150" alt="Foto da Paula Sêmelli"/>
 </p>
 
-<h1 align="center">Olá! Eu sou a Paula 👋</h1>
+<h1 align="center">Olá! Eu sou a Paula </h1>
 
 
 ---
@@ -15,7 +15,7 @@
 
 ---
 
-### 🧠 Tecnologias que uso e estudo
+### Tecnologias que uso e estudo
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML" />
@@ -30,7 +30,7 @@
 
 ---
 
-### 🎯 Objetivos
+### Objetivos
 
 - Concluir o curso de Sistemas de Informação com foco em desenvolvimento mobile  
 - Contribuir para projetos open-source relacionados a Flutter e Kotlin  
@@ -38,7 +38,7 @@
 
 ---
 
-### 📈 Estatísticas do GitHub
+### Estatísticas do GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=semellicodes&show_icons=true&theme=dracula&locale=pt-br" alt="Estatísticas GitHub" />
@@ -54,7 +54,7 @@
 
 ---
 
-### 📫 Onde me encontrar
+### Onde me encontrar
 
 <p align="center">
   <a href="https://www.linkedin.com/in/paulasemelli/" target="_blank">
