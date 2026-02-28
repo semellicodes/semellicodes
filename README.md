@@ -20,5 +20,7 @@ Estudante do 7º semestre de Sistemas de Informação na UFRA, com foco em desen
 </div>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=semellicodes&show_icons=true&hide_border=true&theme=transparent" alt="Estatísticas da Paula" />
+  <a href="https://github.com/semellicodes">
+    <img src="https://github-readme-stats.vercel.app/api?username=semellicodes&show_icons=true&hide_border=true&theme=transparent&v=1" alt="Estatísticas da Paula" />
+  </a>
 </div>
