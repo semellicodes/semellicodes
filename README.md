@@ -1,4 +1,4 @@
-<img align="right" width="150" src="snoopy.png"/>
+<img src="https://www.clipartmax.com/png/small/308-3080180_snoopy-icon-happy-valentines-day-snoopy.png" alt="Snoopy Icon - Happy Valentines Day Snoopy @clipartmax.com">
 
 <h1>Hi, I'm Paula</h1>
 
@@ -50,3 +50,4 @@ This GitHub is where I document my growth and share my projects.
 ## Goal
 
 To become a technically strong developer capable of building efficient and maintainable software.
+
