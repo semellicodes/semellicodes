@@ -72,3 +72,9 @@ Estudante do 7º semestre de Sistemas de Informação na UFRA, com foco em desen
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=paulasemelli&locale=pt-br&mode=daily&theme=tokyonight&hide_border=false&border_radius=30&order=3" height="150" alt="streak graph"  />
 </div>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/semellicodes/semellicodes/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/semellicodes/semellicodes/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/semellicodes/semellicodes/output/github-contribution-grid-snake.svg">
+</picture>
