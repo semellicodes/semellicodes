@@ -69,8 +69,6 @@ Estudante do 7º semestre de Sistemas de Informação na UFRA, com foco em desen
 - Consolidando a base em Lógica de Programação e Estruturas de Dados
 - Aprofundando conhecimentos práticos em Python e Java
 
-### Estatísticas
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=paulasemelli&locale=pt-br&mode=daily&theme=tokyonight&hide_border=false&border_radius=30&order=3" height="150" alt="streak graph"  />
 </div>
