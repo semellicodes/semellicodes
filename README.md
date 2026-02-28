@@ -1,20 +1,27 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Olá, eu sou a Paula 👋</h1>
 
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-    <img width="12" />
-</div>
-
-###
+<p align="center">
+  Estudante do 7º semestre de Sistemas de Informação na UFRA
+</p>
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <a href="https://linkedin.com/in/paulasemelli/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://instagram.com/paulasemelli/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://discordapp.com/users/paulasemelli" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 </div>
 
-###
+<br>
+
+### Foco Atual
+
+- 🎓 Graduação em Sistemas de Informação
+- 🔭
+- 🌱 Estudando Python, Dart, Flutter, HTML, JavaScript, CSS e Java
+
+<br>
+
+### 🛠️ Tecnologias
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,dart,flutter,html,js,css,java" alt="Skills" />
+</div>
