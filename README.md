@@ -1,4 +1,4 @@
-# Olá, eu sou a Paula
+# 👩🏻‍💻 Olá, eu sou a Paula
 
 Estudante do 7º semestre de Sistemas de Informação na UFRA, com foco em desenvolvimento de software e criação de soluções eficientes.
 
