@@ -21,6 +21,4 @@ Estudante do 7º semestre de Sistemas de Informação na UFRA, com foco em desen
 
 ### Estatísticas
 
-![Estatísticas Gerais](https://github-readme-stats.vercel.app/api?username=semellicodes&show_icons=true&theme=transparent&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=semellicodes&theme=transparent&hide_border=true)
