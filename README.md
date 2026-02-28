@@ -18,3 +18,7 @@ Estudante do 7º semestre de Sistemas de Informação na UFRA, com foco em desen
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py,dart,flutter,html,js,css,java" alt="Skills" />
 </div>
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=semellicodes&show_icons=true&hide_border=true&theme=transparent" alt="Estatísticas da Paula" />
+</div>
