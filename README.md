@@ -1,80 +1,19 @@
-# 👩🏻‍💻 Olá, eu sou a Paula
+# Hi there, I'm Paula! 👋
 
-Estudante do 7º semestre de Sistemas de Informação na UFRA, com foco em desenvolvimento de software e criação de soluções eficientes.
+**Information Systems Student @ UFRA | Aspiring Mobile Developer**
+
+I am currently in my 7th semester of Information Systems. I have a solid foundation in programming logic, web development, and software engineering concepts, and I am now actively focusing my studies on modern mobile development (Flutter/Dart). 
+
+### 📌 Social
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulasemelli/)](https://www.linkedin.com/in/paulasemelli/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/paulasemelli/)](https://www.instagram.com/paulasemelli/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paulasemellidev@gmail.com)](mailto:paulasemellidev@gmail.com)
 
 ---
 
-<img
-    align="left"
-    alt="HTML"
-    title="HTML"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-/>
-<img
-    align="left"
-    alt="CSS"
-    title="CSS"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-/>
-<img
-    align="left"
-    alt="Python"
-    title="Python"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-/>
-<img
-    align="left"
-    alt="JavaScript"
-    title="JavaScript"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-/>
-<img
-    align="left"
-    alt="TypeScript"
-    title="TypeScript"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
-/>
-<img
-    align="left"
-    alt="Java"
-    title="Java"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-    />
-<img
-    align="left"
-    alt="MySQL"
-    title="MySQL"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
-/>
+### ✨ My open source projects
 
-<br/>
-<br/>
-
-### Foco Atual
-
-- Consolidando a base em Lógica de Programação e Estruturas de Dados
-- Aprofundando conhecimentos práticos em Python e Java
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=paulasemelli&locale=pt-br&mode=daily&theme=tokyonight&hide_border=false&border_radius=30&order=3" height="150" alt="streak graph"  />
-</div>
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/semellicodes/semellicodes/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/semellicodes/semellicodes/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/semellicodes/semellicodes/output/github-contribution-grid-snake.svg">
-</picture>
+| Repository | Platform | Description | Language | Stars |
+| -- | -- | -- | -- | -- |
+| [Femicide-Prevention-Web](https://github.com/semellicodes/projeto-segura) | ![](https://img.shields.io/badge/Web-090909?style=for-the-badge&logo=googlechrome&logoColor=white) | Educational web platform developed for HCI class with a focus on UX, usability, and social impact. | ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![](https://img.shields.io/github/stars/semellicodes/projeto-segura) |
+| [Solar-Panel-Game](https://github.com/semellicodes/pygame-projeto) | ![](https://img.shields.io/badge/Desktop-4D4D4D?style=for-the-badge&logo=windows&logoColor=white) | Interactive game developed to apply programming logic, mechanics, and problem-solving skills. | ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![](https://img.shields.io/github/stars/semellicodes/pygame-projeto) |
